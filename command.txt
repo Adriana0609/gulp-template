@@ -1,0 +1,28 @@
+// Web pack
+
+cd url- change direct - рівні вкладеності
+
+
+cd ../ на 1 папку вгору - на 1 рівень вкладеності
+cd + 'Tab'
+
+mkdir some (nameFolder)  - створити папку соме
+
+some> зайти в ту папку
+
+some> touch index.html
+
+
+version 1.0.0   - prod.beta.alfa
+
+
+--global -g
+--save-dev        -тільки в локальній папці тільки для девелоперської розробки
+--save -g   ----- 
+
+20:55-21:00
+
+
+
+
+npm i - якщо взяли чийсь проект --- npm install

@@ -1,0 +1,11 @@
+app/     (or src/)      - всі файли тягнемо з цієї папки
+
+images/
+styles/
+  base/
+    _base.scss
+    _variables.scss
+    _mixins.scss
+  main.scss
+scripts/
+pages/  (or components/)    or index.html
